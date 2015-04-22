@@ -40,3 +40,5 @@ def get_elements(tree, selectors):
 
 test()          
 get_links(tree) == get_elements(tree, ['a'])
+
+"FAIRE SOIS MÊME FONCTION DE TEST !!!!! "
